@@ -14,13 +14,13 @@ Spotify data set is provided and consist of features provided for the tracks. A 
 <!-- #### SDLC Report of The Project: [Click here](https://github.com/Technocolabs100/Machine-Learning-Spotify-Hit-Predictor-Application/blob/main/SDLC%20Report%20for%20the%20project%20.pdf) --> 
 
 #### Content:
-- Loading the essentail libraries and dataset
+- Loading the essential libraries and dataset
 - Shuffling the data
-- Standarizing and scaling the inputs
+- Standardizing and scaling the inputs
 - Splitting the data into train , test and validation set
 - Creating the deep learning algorithm
 - Training the model and predictions
-- Vizualizing the neural network loss history
+- Visualizing the neural network loss history
 - Testing the model
 - Saving and verifying the model
 
